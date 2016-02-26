@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My Warranty</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">로그인</string>
+    <string name="title_activity_sign_up">회원가입</string>
+    <string name="title_activity_my_warranty">My Warranty</string>
+    <string name="title_activity_warranty_detail">보증서 보기</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_email">Email</string>
+    <string name="action_sign_in">로그인</string>
+    <string name="action_sign_up">회원가입</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_username">This username is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    
+    <string name="as_process">보증 수리 절차\n
+•   최초 구매자는 보증수리 의뢰 시 최초 구입처로 1차 접수 (영수증 및 워런티 카드 지참)\n
+•   A/S 1차 접수된 대리점에서 A/S 및 검증\n
+•   A/S 1차에서 미해결 시 당사의 A/S 담당자와 상담 후 2차 접수\n
+•   당사의 A/S 담당자는 제품 상태를 확인 후 처리과정을 해당 대리점에 통보 (대리점에서는 최초 구매자에게 처리과정을 안내해드립니다.)\n
+•   당사의 A/S 담당자는 최종 수리 또는 교환된 제품을 대리점으로 전달합니다.</string>
+    <string name="input_redeem_code">인증번호 입력</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_warranty_title">내 보증서</string>
+    <string name="tab_promotion_title">프로모션</string>
+    <string name="delete_warranty">보증서를 삭제하시겠습니까?</string>
+    <string name="delete">보증서 삭제</string>
+</resources>
